@@ -1,0 +1,9 @@
+Bacillus subtilis|Bacillus|250|Generally harmless,Voma
+Clostridium difficile|Clostridium|100|diarrhea
+E.coli K12|E.coli|180|Laboratory strain,Voma
+E.coli O157|E.coli|200|Food poisoning,Diarrhea
+E.coli P10|E.coli|180|Voma,Rectal Bleeding,Sadness
+Helicobacter pylori|Helicobacter|120|Stomach cancer
+Salmonella enterica|Salmonella|300|Typhoid fever,Gastroenteritis
+Staphylococcus aureus|Staphylococcus|120|Skin infections,Food poisoning
+Streptococcus pyogenes|Streptococcus|100|Strep throat,Scarlet fever
